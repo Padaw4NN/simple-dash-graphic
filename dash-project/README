@@ -1,3 +1,6 @@
+#### Download Iris Datasets here:
+https://www.kaggle.com/datasets/uciml/iris?resource=download
+
 1. Create a new virtualenv
 $ python3 -m venv env
 
